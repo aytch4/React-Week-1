@@ -1,0 +1,50 @@
+.login-form {
+  width: 100%;
+  max-width: 500px;
+  padding: 15px;
+  margin: auto;
+  height: 100%;
+  top: 50%;
+  position: relative;
+  align-items: center;
+  vertical-align: middle;
+}
+
+.border {
+  padding-right: 5em;
+  padding-left: 5em;
+  
+}
+
+input {
+  margin-left: 8px;
+}
+
+Nav {
+  color: white !important;
+}
+
+h1 {
+  margin-left:100px
+}
+
+body {
+  background-color: rgb(176, 214, 245);
+  vertical-align: middle;
+  align-items: center;
+}
+
+
+.container {
+  width: 100%;
+  max-width: auto;
+  height: 100%;
+  vertical-align: middle;
+  align-items: center;
+  
+}
+
+ 
+/*display: flex;
+justify-content: center; 
+align-items: center; */
